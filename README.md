@@ -45,7 +45,9 @@ Here are some of the tools and technologies I frequently use:
 
 ## 📈 GitHub Stats
 ![BeholdLost's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeholdIsLost&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeholdIsLost&layout=compact&theme=radical)  
+
+> **Note:** Most of my commits and contributions are under **private repositories**, including work on **Vaultbot** and other projects. Public stats may not fully reflect my development activity.  
 
 ---
 
