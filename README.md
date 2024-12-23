@@ -1,30 +1,68 @@
-# BeholdLost
+# 👋 Welcome to BeholdLost's GitHub!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello%2C+I'm+BeholdLost;I'm+the+creator+of+Vaultbot)](https://git.io/typing-svg)
-
-Welcome to my GitHub profile! I'm a passionate creator and developer, focusing on building Discord bots and various web-related projects. I'm the creator of **Vaultbot**, a feature-packed Discord bot designed to enhance server management, automate tasks, and provide fun interactions for community members.
-
-## Projects
-
-- **Vaultbot**: A versatile Discord bot built with **Discord.js** and **Node.js** that helps with server management, automation, and engaging community interactions.
-- **Other Projects**: I also work on various web development projects using **HTML**, **CSS**, and **JavaScript**. Be sure to check out my repositories for more.
-
-## Technologies I Use
-
-- **Discord.js**
-- **Node.js**
-- **HTML & CSS**
-- **JavaScript**
-- **GitHub** for version control
-
-## Let's Connect!
-
-Feel free to explore my repositories, open issues, or contribute to any projects that interest you. I'm always open to collaboration and feedback.
-
-[My GitHub Profile](https://github.com/BeholdIsLost)
-
-If you have any questions or want to chat, feel free to reach out!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello,+I'm+BeholdLost!;Creator+of+Vaultbot;Passionate+Developer+and+Bot+Maker)](https://git.io/typing-svg)
 
 ---
 
-Thank you for visiting my profile. Stay tuned for more exciting projects!
+🌟 **Creator of Vaultbot** | 🎮 **Discord Enthusiast** | 💻 **Web Developer** | 🚀 **Lifelong Learner**
+
+---
+
+## 🛠️ About Me
+Hi! I'm **BeholdLost**, a passionate developer and creator focused on **Discord bot development** and **web projects**. I'm always exploring innovative ideas to enhance server experiences and streamline workflows. I believe in the power of code to build connections and bring people together.  
+
+### 💡 Highlights
+- 🔧 **Creator of [Vaultbot](https://vaultbot.xyz)** — a feature-packed Discord bot for server management, task automation, and fun interactions.
+- 🌐 Skilled in **web development** with a focus on crafting clean, functional, and responsive designs.
+- 🛠️ Adept at using modern tools and frameworks like **Node.js**, **Discord.js**, and more.
+
+---
+
+## 🚀 Featured Projects
+### 🛡️ [Vaultbot](https://vaultbot.xyz)  
+A versatile and feature-rich Discord bot built with **Discord.js** and **Node.js**.  
+**Key Features:**
+- 📋 Advanced server management tools.
+- 🤖 Automation to reduce admin workload.
+- 🎉 Fun and interactive commands to engage communities.
+
+### 🌐 Other Projects
+- 📦 Various web development projects showcasing **HTML**, **CSS**, and **JavaScript**.
+- 🔍 Explore all my repositories for more exciting work!
+
+---
+
+## 🛠️ Technologies & Tools
+Here are some of the tools and technologies I frequently use:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+
+---
+
+## 📈 GitHub Stats
+![BeholdLost's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeholdIsLost&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+- 📬 **[Reach out on GitHub](https://github.com/BeholdIsLost)**
+- 🌐 **Check out my projects and repositories.**
+- 💬 **Open to collaboration and feedback!**
+
+---
+
+## 🎯 Goals for 2025
+- 🚀 **Launch new features for Vaultbot** to make it even more versatile.  
+- 🌱 **Improve coding skills** by diving deeper into advanced concepts.  
+- 🌐 **Enhance web development** by building more interactive and responsive websites.  
+- 💻 **Learn new coding languages** and frameworks, such as **React.js**.  
+
+---
+
+Thank you for visiting my GitHub! 🚀  
+🌟 Let's create something awesome together. 🌟  
