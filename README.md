@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/257556999548436480" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/257556999548436480?borderRadius=5px">
+  <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/257556999548436480?borderRadius=5px">
 </a>
 
 # 👋 Welcome to BeholdLost's GitHub!
@@ -8,36 +8,32 @@
 
 ---
 
-🌟 **Creator of Vaultbot** | 🎮 **Discord Enthusiast** | 💻 **Web Developer** | 🚀 **Lifelong Learner**
+🌟 **Creator of Vaultbot** | 🚀 **Lifelong Learner**
 
 ---
 
 ## 🛠️ About Me
-Hi! I'm **BeholdLost**, a passionate developer and creator focused on **Discord bot development** and **web projects**. I'm always exploring innovative ideas to enhance server experiences and streamline workflows. I believe in the power of code to build connections and bring people together.  
+Hi! I'm **BeholdLost**, a passionate developer focused on **Discord bots**. I love building tools that enhance communities and simplify server management. I believe in the power of code to bring people together.
 
 ### 💡 Highlights
-- 🔧 **Creator of [Vaultbot](https://vaultbot.xyz)** — a feature-packed Discord bot for server management, task automation, and fun interactions.
-- 🌐 Skilled in **web development** with a focus on crafting clean, functional, and responsive designs.
-- 🛠️ Adept at using modern tools and frameworks like **Node.js**, **Discord.js**, and more.
+- 🔧 **Creator of [Vaultbot](https://vaultbot.xyz)** — a feature-rich Discord bot for server management, streamlined workflows, and engaging interactions.
+- 🛠️ Skilled in **Node.js**, **Discord.js**, and other modern development tools.
 
 ---
 
 ## 🚀 Featured Projects
-### 🛡️ [Vaultbot](https://vaultbot.xyz)  
-A versatile and feature-rich Discord bot built with **Discord.js** and **Node.js**.  
-**Key Features:**
-- 📋 Advanced server management tools.
-- 🤖 Automation to reduce admin workload.
-- 🎉 Fun and interactive commands to engage communities.
 
-### 🌐 Other Projects
-- 📦 Various web development projects showcasing **HTML**, **CSS**, and **JavaScript**.
-- 🔍 Explore all my repositories for more exciting work!
+### 🛡️ [Vaultbot](https://vaultbot.xyz)  
+A versatile, advanced Discord bot built with **Discord.js** and **Node.js**.  
+**Key Features:**
+- 📋 Server management tools.
+- 🤖 Automation to reduce admin workload.
+- 🎉 Fun and interactive commands for your community.
 
 ---
 
-## 🛠️ Technologies & Tools
-Here are some of the tools and technologies I frequently use:  
+## 🧰 Technologies & Tools
+Here are some tools and technologies I frequently use:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge)  
@@ -51,24 +47,10 @@ Here are some of the tools and technologies I frequently use:
 ![BeholdLost's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeholdIsLost&layout=compact&theme=radical)  
 
-> **Note:** Most of my commits and contributions are under **private repositories**, including work on **Vaultbot** and other projects. Public stats may not fully reflect my development activity.  
+> **Note:** Many of my commits are in **private repositories**, including work on **Vaultbot** and other projects. Public stats may not reflect my full activity.
 
 ---
 
 ## 🤝 Let's Connect!
-- 📬 **[Reach out on GitHub](https://github.com/BeholdIsLost)**
-- 🌐 **Check out my projects and repositories.**
+- 📬 **[Message me on GitHub](https://github.com/BeholdIsLost)**
 - 💬 **Open to collaboration and feedback!**
-
----
-
-## 🎯 Goals for 2025
-- 🚀 **Launch new features for Vaultbot** to make it even more versatile.  
-- 🌱 **Improve coding skills** by diving deeper into advanced concepts.  
-- 🌐 **Enhance web development** by building more interactive and responsive websites.  
-- 💻 **Learn new coding languages** and frameworks, such as **React.js**.  
-
----
-
-Thank you for visiting my GitHub! 🚀  
-🌟 Let's create something awesome together. 🌟  
