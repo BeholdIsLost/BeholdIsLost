@@ -1,3 +1,7 @@
+<a href="https://discord.com/users/257556999548436480" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/257556999548436480?bg=1f1f1f&borderRadius=5px">
+</a>
+
 # 👋 Welcome to BeholdLost's GitHub!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello,+I'm+BeholdLost!;Creator+of+Vaultbot;Passionate+Developer+and+Bot+Maker)](https://git.io/typing-svg)
