@@ -20,7 +20,6 @@
 I'm a developer who loves building things for Discord communities. I started coding because I wanted better tools for servers I was in — and that turned into **Vaultbot**.
 
 - 🛠️ **Node.js** & **Discord.js** are my home turf
-- 🔒 Most of my work lives in **private repos**
 - 🚀 Always shipping, always learning something new
 
 <br clear="right"/>
