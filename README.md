@@ -13,16 +13,12 @@
 
 ---
 
-<img align="right" width="310" src="https://github-readme-stats-fast.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2&text_color=ffffff" />
-
 ### 👾 About Me
 
 I'm a developer who loves building things for Discord communities. I started coding because I wanted better tools for servers I was in — and that turned into **Vaultbot**.
 
 - 🛠️ **Node.js** & **Discord.js** are my home turf
 - 🚀 Always shipping, always learning something new
-
-<br clear="right"/>
 
 ---
 
