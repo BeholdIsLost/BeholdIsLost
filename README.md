@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+BeholdLost+👋;Discord+Bot+Developer+🤖;Creator+of+Vaultbot+🛡️;Building+tools+that+unite+communities+🌐)](https://git.io/typing-svg)
+# 👋 Hey, I'm BeholdLost
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer+🤖;Creator+of+Vaultbot+🛡️;Building+tools+that+unite+communities+🌐)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,36 +17,37 @@
 
 ### 👾 About Me
 
-I'm a self-driven developer with a passion for building **Discord bots** that make communities better. My flagship project, **Vaultbot**, is a full-featured bot used by servers who want powerful management and automation without the hassle.
+I'm a developer who loves building things for Discord communities. I started coding because I wanted better tools for servers I was in — and that turned into **Vaultbot**.
 
-When I'm not coding, I'm thinking about what to build next.
-
-- 🛠️ Primarily working in **Node.js** & **Discord.js**
-- 🔒 Most of my work is in **private repos**
-- 🚀 Always learning, always shipping
+- 🛠️ **Node.js** & **Discord.js** are my home turf
+- 🔒 Most of my work lives in **private repos**
+- 🚀 Always shipping, always learning something new
 
 <br clear="right"/>
 
 ---
 
-## 🛡️ Vaultbot
+## 🛡️ Vaultbot — My Flagship Project
 
 <div align="center">
 
-> *The all-in-one Discord bot built to power your server.*
+[![Visit Vaultbot](https://img.shields.io/badge/🔗_Visit_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge&logoColor=white)](https://vaultbot.eu)
 
-[![Visit Vaultbot](https://img.shields.io/badge/🔗_vaultbot.eu-5865F2?style=for-the-badge)](https://vaultbot.eu)
+> *The all-in-one Discord bot built to power your server.*
 
 </div>
 
 <br/>
 
-```
-📋 Server Management  →  Moderation, roles, logging, and full admin control
-🤖 Automation         →  Smart workflows that cut down on repetitive tasks  
-🎉 Community Tools    →  Engaging, fun commands your members will actually use
-⚡ Built to Scale     →  Fast, reliable, and always improving
-```
+Vaultbot is my main project — a fully-featured Discord bot designed to make server management effortless. From moderation to automation to community engagement, it's built to handle everything a growing server needs.
+
+| Feature | What it does |
+|---|---|
+| 📋 **Server Management** | Bans, kicks, mutes, warns, role management & detailed logging |
+| 🤖 **Automation** | Auto-responses, smart workflows, and scheduled actions |
+| 🎉 **Community Tools** | Fun, interactive commands that actually get used |
+| 🔒 **Permission System** | Granular role-based control over every command |
+| ⚡ **Reliability** | Fast, stable, and constantly being improved |
 
 ---
 
