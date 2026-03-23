@@ -1,60 +1,50 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗██████╗  ██████╗ ████████╗
-██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝██╔══██╗██╔═══██╗╚══██╔══╝
-██║   ██║███████║██║   ██║██║     ██║   ██████╔╝██║   ██║   ██║   
-╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   ██╔══██╗██║   ██║   ██║   
- ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   ██████╔╝╚██████╔╝   ██║   
-  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═════╝  ╚═════╝    ╚═╝   
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer+%F0%9F%A4%96;Creator+of+Vaultbot+%F0%9F%9B%A1%EF%B8%8F;Node.js+%26+Discord.js+Enthusiast+%F0%9F%9A%80;Building+tools+that+bring+people+together+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+BeholdLost+👋;Discord+Bot+Developer+🤖;Creator+of+Vaultbot+🛡️;Building+tools+that+unite+communities+🌐)](https://git.io/typing-svg)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge&logoColor=white)](https://vaultbot.eu)
+[![Vaultbot](https://img.shields.io/badge/🛡️_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge)](https://vaultbot.eu)
 [![GitHub](https://img.shields.io/badge/GitHub-BeholdIsLost-181717?style=for-the-badge&logo=github)](https://github.com/BeholdIsLost)
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats-fast.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2&text_color=ffffff" />
+<img align="right" width="310" src="https://github-readme-stats-fast.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2&text_color=ffffff" />
 
-### 👾 Who am I?
+### 👾 About Me
 
-```js
-const BeholdLost = {
-  role:       "Discord Bot Developer",
-  passion:    "Building community tools",
-  flagship:   "Vaultbot 🛡️",
-  stack:      ["Node.js", "Discord.js", "JS", "HTML", "CSS"],
-  philosophy: "Code that brings people together",
-  status:     "Always building something new 🚀"
-};
-```
+I'm a self-driven developer with a passion for building **Discord bots** that make communities better. My flagship project, **Vaultbot**, is a full-featured bot used by servers who want powerful management and automation without the hassle.
+
+When I'm not coding, I'm thinking about what to build next.
+
+- 🛠️ Primarily working in **Node.js** & **Discord.js**
+- 🔒 Most of my work is in **private repos**
+- 🚀 Always learning, always shipping
 
 <br clear="right"/>
 
 ---
 
-## 🛡️ Vaultbot — My Flagship Project
+## 🛡️ Vaultbot
 
 <div align="center">
 
-> **The all-in-one Discord bot built to power your server.**
+> *The all-in-one Discord bot built to power your server.*
 
-[![Vaultbot](https://img.shields.io/badge/🔗_Visit_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge)](https://vaultbot.eu)
+[![Visit Vaultbot](https://img.shields.io/badge/🔗_vaultbot.eu-5865F2?style=for-the-badge)](https://vaultbot.eu)
 
 </div>
 
-| Feature | Description |
-|---|---|
-| 📋 **Server Management** | Full suite of moderation and admin tools |
-| 🤖 **Automation** | Reduce admin workload with smart workflows |
-| 🎉 **Community Commands** | Fun and interactive features for your members |
-| ⚡ **Performance** | Built with speed and reliability in mind |
+<br/>
+
+```
+📋 Server Management  →  Moderation, roles, logging, and full admin control
+🤖 Automation         →  Smart workflows that cut down on repetitive tasks  
+🎉 Community Tools    →  Engaging, fun commands your members will actually use
+⚡ Built to Scale     →  Fast, reliable, and always improving
+```
 
 ---
 
@@ -84,32 +74,31 @@ const BeholdLost = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BeholdIsLost&theme=tokyonight&hide_border=true&background=0d1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2)
 
-> 💡 Most of my work lives in **private repositories** — public stats are just the tip of the iceberg.
+<sub>💡 Most of my commits live in private repositories — public stats are just the tip of the iceberg.</sub>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Working On
 
-```
-🔨 Continuously improving Vaultbot with new features
-🌱 Expanding my knowledge of backend systems
-🤝 Open to collaboration on Discord tooling projects
-```
+| | |
+|---|---|
+| 🔨 | Shipping new features for **Vaultbot** |
+| 🌱 | Deepening my backend & systems knowledge |
+| 🤝 | Open to collabs on **Discord tooling** projects |
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-### 🤝 Let's Build Something Together
-
-[![GitHub](https://img.shields.io/badge/Find_me_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BeholdIsLost)
-[![Vaultbot](https://img.shields.io/badge/Check_out_Vaultbot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://vaultbot.eu)
+[![GitHub](https://img.shields.io/badge/GitHub-BeholdIsLost-181717?style=for-the-badge&logo=github)](https://github.com/BeholdIsLost)
+[![Discord Bot](https://img.shields.io/badge/Discord_Bot-Vaultbot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://vaultbot.eu)
+[![Website](https://img.shields.io/badge/Website-vaultbot.eu-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaultbot.eu)
 
 <br/>
-
-*"The best communities are built — one line of code at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BeholdIsLost&color=5865F2&style=for-the-badge&label=PROFILE+VIEWS)
 
