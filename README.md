@@ -14,11 +14,9 @@
 <img src="https://komarev.com/ghpvc/?username=BeholdIsLost&color=5865F2&style=for-the-badge&label=VISITORS" />
 </p>
 
-<img src="https://raw.githubusercontent.com/BeholdIsLost/BeholdIsLost/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,100:0d1117&height=4" width="100%"/>
 
 ## 👾 About Me
 
@@ -31,7 +29,7 @@ currently: Shipping Vaultbot V3
 open_to: Collabs on Discord tooling
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,100:0d1117&height=4" width="100%"/>
 
 ## 🛡️ Vaultbot — Flagship Project
 
@@ -68,7 +66,7 @@ Moderation, leveling, giveaways, tickets, and a full web dashboard — configura
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,100:0d1117&height=4" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -78,7 +76,7 @@ Moderation, leveling, giveaways, tickets, and a full web dashboard — configura
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,100:0d1117&height=4" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -93,27 +91,7 @@ Moderation, leveling, giveaways, tickets, and a full web dashboard — configura
 
 </div>
 
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeholdIsLost&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=5865F2&point=ffffff&area=true&area_color=5865F2" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BeholdIsLost&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,100:0d1117&height=4" width="100%"/>
 
 ## 🎯 Currently
 
@@ -121,7 +99,7 @@ Moderation, leveling, giveaways, tickets, and a full web dashboard — configura
 - 🌱 Deepening backend & systems design knowledge
 - 🤝 Open to collabs on **Discord tooling**
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,100:0d1117&height=4" width="100%"/>
 
 ## 🌐 Connect
 
