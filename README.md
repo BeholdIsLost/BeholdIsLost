@@ -1,103 +1,112 @@
 <div align="center">
 
-# 👋 Hey, I'm BeholdLost
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer+🤖;Creator+of+Vaultbot+🛡️;Building+tools+that+unite+communities+🌐)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5865F2&height=220&section=header&text=BeholdLost&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Creator%20of%20Vaultbot&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![Vaultbot](https://img.shields.io/badge/🛡️_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge)](https://vaultbot.eu)
-[![GitHub](https://img.shields.io/badge/GitHub-BeholdIsLost-181717?style=for-the-badge&logo=github)](https://github.com/BeholdIsLost)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Building+Vaultbot+%F0%9F%9B%A1%EF%B8%8F;110%2B+servers+%C2%B7+21k%2B+members;Node.js+%2B+Discord.js+%2B+Next.js;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-</div>
-
----
-
-### 👾 About Me
-
-I'm a developer who loves building things for Discord communities. I started coding because I wanted better tools for servers I was in — and that turned into **Vaultbot**.
-
-- 🛠️ **Node.js** & **Discord.js** are my home turf
-- 🚀 Always shipping, always learning something new
-
----
-
-## 🛡️ Vaultbot — My Flagship Project
-
-<div align="center">
-
-[![Visit Vaultbot](https://img.shields.io/badge/🔗_Visit_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge&logoColor=white)](https://vaultbot.eu)
-
-> *The all-in-one Discord bot built to power your server.*
+<p>
+<a href="https://vaultbot.eu"><img src="https://img.shields.io/badge/Vaultbot-vaultbot.eu-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://github.com/BeholdIsLost"><img src="https://img.shields.io/badge/GitHub-BeholdIsLost-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=BeholdIsLost&color=5865F2&style=for-the-badge&label=VISITORS" />
+</p>
 
 </div>
 
 <br/>
 
-Vaultbot is my main project — a fully-featured Discord bot designed to make server management effortless. From moderation to automation to community engagement, it's built to handle everything a growing server needs.
+## 👾 About Me
+
+I build tools that make Discord communities easier to run. That itch turned into **[Vaultbot](https://vaultbot.eu)** — now serving **110+ servers** and **21k+ members**.
+
+```yaml
+role: Discord Bot Developer
+focus: Node.js, Discord.js, full-stack dashboards
+currently: Shipping Vaultbot V3
+open_to: Collabs on Discord tooling
+```
+
+<br/>
+
+## 🛡️ Vaultbot — Flagship Project
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**The all-in-one Discord bot built to power your server.**
+
+Moderation, leveling, giveaways, tickets, and a full web dashboard — configurable without touching a single command.
 
 | Feature | What it does |
 |---|---|
-| 📋 **Server Management** | Bans, kicks, mutes, warns, role management & detailed logging |
-| 🤖 **Automation** | Auto-responses, smart workflows, and scheduled actions |
-| 🎉 **Community Tools** | Fun, interactive commands that actually get used |
-| 🔒 **Permission System** | Granular role-based control over every command |
-| ⚡ **Reliability** | Fast, stable, and constantly being improved |
+| 📋 **Moderation** | Bans, kicks, mutes, warns, mod-log, audit history |
+| 🤖 **Automation** | Auto-responses, workflows, scheduled actions |
+| 📈 **Leveling** | XP curve, levels, leaderboards |
+| 🧩 **Custom Commands** | Build slash commands, no code required |
+| 🔒 **Permissions** | Granular role-based access per command |
 
----
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/>
+
+### [🔗 vaultbot.eu](https://vaultbot.eu)
+
+<br/>
+
+![Servers](https://img.shields.io/badge/Servers-110%2B-5865F2?style=flat-square)
+![Members](https://img.shields.io/badge/Members-21k%2B-5865F2?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,nextjs,react,tailwind,mongodb,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeholdIsLost&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=BeholdIsLost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeholdIsLost&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=BeholdIsLost&theme=tokyonight&hide_border=true&background=0d1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BeholdIsLost&theme=tokyonight&hide_border=true&background=0d1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2)
-
-<sub>💡 Most of my commits live in private repositories — public stats are just the tip of the iceberg.</sub>
+<sub>💡 Most commits live in private repos — public stats are just the surface.</sub>
 
 </div>
 
----
+<br/>
 
-## 🎯 What I'm Working On
+## 🎯 Currently
 
-| | |
-|---|---|
-| 🔨 | Shipping new features for **Vaultbot** |
-| 🌱 | Deepening my backend & systems knowledge |
-| 🤝 | Open to collabs on **Discord tooling** projects |
+- 🔨 Shipping new features for **Vaultbot V3**
+- 🌱 Deepening backend & systems design knowledge
+- 🤝 Open to collabs on **Discord tooling**
 
----
+<br/>
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-BeholdIsLost-181717?style=for-the-badge&logo=github)](https://github.com/BeholdIsLost)
-[![Discord Bot](https://img.shields.io/badge/Discord_Bot-Vaultbot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://vaultbot.eu)
-[![Website](https://img.shields.io/badge/Website-vaultbot.eu-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaultbot.eu)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=BeholdIsLost&color=5865F2&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/BeholdIsLost"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://vaultbot.eu"><img src="https://img.shields.io/badge/Vaultbot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://vaultbot.eu"><img src="https://img.shields.io/badge/Website-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0d1117&height=100&section=footer" width="100%"/>
