@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5865F2&height=220&section=header&text=BeholdLost&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Creator%20of%20Vaultbot&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5865F2,100:0d1117&height=230&section=header&text=BeholdLost&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Creator%20of%20Vaultbot&descAlignY=56&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Building+Vaultbot+%F0%9F%9B%A1%EF%B8%8F;110%2B+servers+%C2%B7+21k%2B+members;Node.js+%2B+Discord.js+%2B+Next.js;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=650&lines=Building+Vaultbot+%F0%9F%9B%A1%EF%B8%8F;110%2B+servers+%C2%B7+21k%2B+members;Node.js+%2B+Discord.js+%2B+Next.js;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
 
 <p>
-<a href="https://vaultbot.eu"><img src="https://img.shields.io/badge/Vaultbot-vaultbot.eu-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://vaultbot.eu"><img src="https://img.shields.io/badge/🛡️_Vaultbot-vaultbot.eu-5865F2?style=for-the-badge&logoColor=white" /></a>
 <a href="https://github.com/BeholdIsLost"><img src="https://img.shields.io/badge/GitHub-BeholdIsLost-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=BeholdIsLost&color=5865F2&style=for-the-badge&label=VISITORS" />
 </p>
+
+<img src="https://raw.githubusercontent.com/BeholdIsLost/BeholdIsLost/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -86,6 +90,26 @@ Moderation, leveling, giveaways, tickets, and a full web dashboard — configura
 <img src="https://streak-stats.demolab.com?user=BeholdIsLost&theme=tokyonight&hide_border=true&background=0d1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" />
 
 <sub>💡 Most commits live in private repos — public stats are just the surface.</sub>
+
+</div>
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeholdIsLost&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=5865F2&point=ffffff&area=true&area_color=5865F2" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BeholdIsLost&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
